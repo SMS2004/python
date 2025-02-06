@@ -1,4 +1,4 @@
-public class MergeSort {
+public class javamergesort {
 
     // Main function that sorts the array using merge sort
     public static void mergeSort(int[] array) {
